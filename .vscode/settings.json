@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "xlocmon": "cpp",
+        "xtr1common": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
